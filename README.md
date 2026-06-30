@@ -352,3 +352,163 @@ https://portfolio-two-tawny-41.vercel.app/
 </div>
 
 ---
+---
+
+# 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### I'm always interested in collaborating on
+
+🚀 Full Stack Applications
+
+☁️ Cloud & AWS Projects
+
+⚙️ Backend Engineering
+
+📈 Scalable Systems
+
+🌍 Open Source Contributions
+
+🏆 Competitive Programming
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🌱 Learning | 🎯 Future Goals |
+|-------------|----------------|
+| Advanced System Design | Crack a Top Product-Based Company |
+| Distributed Systems | Become a Strong Backend Engineer |
+| AWS Cloud Services | Build Scalable SaaS Products |
+| Microservices | Contribute to Open Source |
+| DevOps Fundamentals | Learn Kubernetes |
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+## 🏫 Indian Institute of Information Technology, Manipur
+
+**Bachelor of Technology**
+
+Computer Science & Engineering
+
+**2022 – 2026**
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nayan9854bhattarai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nayan-jyoti-bhattarai/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-two-tawny-41.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://leetcode.com/u/akt9802/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/iiitm_cse_60">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1NvfnY0vzUmWBQL7KCWhXK8ZBlQggD5Xy/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+
+</div>
+
+---
+
+# 📌 Fun Facts
+
+<div align="center">
+
+💡 I enjoy solving complex DSA problems.
+
+⚡ I love turning ideas into real-world products.
+
+🚀 I believe clean code scales better than clever code.
+
+🎯 Always learning something new every day.
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **Enable the GitHub Action first.**
+>
+> Once enabled, uncomment the line below.
+
+<!--
+![](https://raw.githubusercontent.com/Nayan9854/Nayan9854/output/github-contribution-grid-snake.svg)
+-->
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayan9854&theme=tokyonight)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Nayan9854&theme=tokyonight&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00E5FF&height=120&section=footer"/>
+
+</div>
