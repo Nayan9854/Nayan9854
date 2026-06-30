@@ -202,3 +202,153 @@
 </div>
 
 ---
+---
+
+# 💼 Professional Experience
+
+## 🚀 Frontend Developer Intern | Wyreflow Technologies
+**📅 Feb 2026 – May 2026**
+
+- 🚀 Developed **50+ responsive frontend pages** from Figma designs using **React.js, TypeScript & Tailwind CSS**
+- 💳 Integrated **Razorpay Payment Gateway** supporting UPI, Cards, Net Banking & Wallets
+- 👨‍💻 Led a **4-member frontend team** for one month, coordinating feature delivery
+- 🐞 Collaborated with QA to resolve **100+ frontend bugs**
+- ⚡ Improved application performance by **20–30%** using lazy loading, memoization and code splitting
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🛡️ Sentinel
+### CRPF Personnel & Weapon Management System
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT`
+
+### Features
+
+- 🔐 Role-based Authentication
+- 👮 Personnel Management
+- 🔫 Weapon Inventory Tracking
+- 📡 Real-time Updates using Socket.io
+- 📊 Dashboard & Analytics
+
+</td>
+
+<td width="50%">
+
+## 📚 BookShare
+### Peer-to-Peer Book Sharing Platform
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `PostgreSQL`
+`Prisma` `Stripe` `Auth.js`
+
+### Features
+
+- 📖 Book Listings
+- 💳 Stripe Payments
+- 👤 Authentication
+- 🔍 Search & Filters
+- 📱 Responsive UI
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🌐 Personal Portfolio
+
+**Tech Stack**
+
+`React` `Tailwind CSS`
+
+🔗 **Live Website**
+
+https://portfolio-two-tawny-41.vercel.app/
+
+### Features
+
+- Responsive Design
+- Resume Download
+- Project Showcase
+- Contact Section
+- Modern UI
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement | Details |
+|:--------------|:--------|
+| 👑 LeetCode Knight | **1906 Max Rating** |
+| ⭐ Problems Solved | **1100+ DSA Problems** |
+| ⭐ CodeChef | **4★ (1801 Max Rating)** |
+| 🥇 Global Rank | **6 — CodeChef Starters 215** |
+| 🏆 Hackathon | **Winner — Ahouba 2025** |
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayan9854&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan9854&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nayan9854&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan9854&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/akt9802/">
+<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/iiitm_cse_60">
+<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://portfolio-two-tawny-41.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
