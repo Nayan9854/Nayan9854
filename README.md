@@ -460,13 +460,7 @@ Computer Science & Engineering
 
 <div align="center">
 
-> **Enable the GitHub Action first.**
->
-> Once enabled, uncomment the line below.
-
-<!--
-![](https://raw.githubusercontent.com/Nayan9854/Nayan9854/output/github-contribution-grid-snake.svg)
--->
+<img src="https://raw.githubusercontent.com/Nayan9854/Nayan9854/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
