@@ -206,7 +206,7 @@
 
 # 💼 Professional Experience
 
-## 🚀 Frontend Developer Intern | Wyreflow Technologies
+## 🚀 Software Developer Intern | Wyreflow Technologies
 **📅 Feb 2026 – May 2026**
 
 - 🚀 Developed **50+ responsive frontend pages** from Figma designs using **React.js, TypeScript & Tailwind CSS**
