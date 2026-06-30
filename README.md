@@ -4,16 +4,48 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey There! I'm Nayan Bhattarai
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Nayan%20Bhattarai&fontSize=70&animation=twinkling&fontColor=ffffff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;LeetCode+Knight+%7C+CodeChef+4%E2%AD%90;Building+Scalable+Applications;Always+Learning+Something+New" />
+<h3 align="center">
+<samp>
 
-### 🚀 Software Engineer building scalable full-stack applications, high-performance backend systems, and production-ready software.
+> Hi There!, I'm <b><a href="https://www.linkedin.com/in/nayan-jyoti-bhattarai/" target="_blank">Nayan Bhattarai</a></b>
+
+</samp>
+</h3>
+
+<br>
+
+<p align="center">
+<samp>
+
+「 Full Stack Engineer building scalable applications, robust backend systems, and production-ready software 」
+
+</samp>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1200&color=00F5FF&center=true&vCenter=true&width=950&lines=Full-Stack+Engineer+%7C+Backend+Developer;LeetCode+Knight+%7C+1906+Max+Rating;CodeChef+4%E2%AD%90+%7C+1801+Max+Rating;1100%2B+DSA+Problems+Solved;Winner+%7C+Ahouba+Hackathon+2025;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Open+to+SDE-1+Roles" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🔥_STATUS-OPEN_TO_SDE--1_ROLES-00ff41?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/🏆_LEETCODE-KNIGHT_1906-7B3FE4?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/⭐_CODECHEF-4_STAR-FFB000?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/🎓_IIIT-MANIPUR-ff6b35?style=for-the-badge&labelColor=000000"/>
+
+</p>
 
 <p align="center">
 
 <a href="https://portfolio-two-tawny-41.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nayan-jyoti-bhattarai/">
@@ -21,22 +53,32 @@
 </a>
 
 <a href="https://leetcode.com/u/akt9802/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/users/iiitm_cse_60">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1NvfnY0vzUmWBQL7KCWhXK8ZBlQggD5Xy/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobeacrobatreader"/>
+<img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<a href="mailto:nayan9854bhattarai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=Nayan9854&style=for-the-badge&color=blueviolet)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nayan9854&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+</p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
