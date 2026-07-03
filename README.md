@@ -455,7 +455,7 @@ Computer Science & Engineering
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1NvfnY0vzUmWBQL7KCWhXK8ZBlQggD5Xy/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1JpdP4UeQHwd56E1aQOdFpCh9veWbAQXp/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
